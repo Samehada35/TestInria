@@ -17,3 +17,5 @@ Ce repo se compose de deux notebooks :
 - matplotlib
 
 Utiliser la commande suivante pour installer les packages : pip install nom_package
+
+> Note : Afin de voir toutes les cellules des notebook (que GitHub bloque par défaut), téléchargez les versions .html afin de les visualiser sur votre navigateur web.
